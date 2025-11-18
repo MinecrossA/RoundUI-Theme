@@ -5,13 +5,13 @@ You can access the Settings section by opening the _“RoundUI.css”_ file.
 
 # Features
 - Custom background at user panel
-![Image Alt](https://github.com/MinecrossA/RoundUI-Theme/blob/main/rounduiusrpanl.gif?raw=true)
+![Image Alt](https://i.imgur.com/JpYcYLo.gif)
 
 - This theme has navigation buttons similar to Mac OS navigation buttons.
-![Image Alt](https://github.com/MinecrossA/RoundUI-Theme/blob/main/rounduinavcont.gif?raw=true)
+![Image Alt](https://i.imgur.com/0Y4nMxy.gif)
 
 - Chat that changes depending on the situation
-![Image Alt](https://github.com/MinecrossA/RoundUI-Theme/blob/main/rounduichat.gif?raw=true)
+![Image Alt](https://i.imgur.com/LQCqL7L.gif)
 
 # About Bugs
 There are still too many bugs in the theme, and I can't find them all on my own. If you're really bothered by the bugs, you can report them on the **Discord server** I'll be opening in the **FUTURE**.

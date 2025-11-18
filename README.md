@@ -5,12 +5,15 @@ You can access the Settings section by opening the _“RoundUI.css”_ file.
 
 # Features
 - Custom background at user panel
+
 ![Image Alt](https://i.imgur.com/JpYcYLo.gif)
 
 - This theme has navigation buttons similar to Mac OS navigation buttons.
+
 ![Image Alt](https://i.imgur.com/0Y4nMxy.gif)
 
 - Chat that changes depending on the situation
+
 ![Image Alt](https://i.imgur.com/LQCqL7L.gif)
 
 # About Bugs

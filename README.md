@@ -19,6 +19,7 @@ You can access the Settings section by opening the _“RoundUI.css”_ file.
 - Pop-ups and user panel where you can adjust the background and blur.
 
 ![Image Alt](https://i.imgur.com/Mt8QD8x.png)
+
 ![Image Alt](https://i.imgur.com/qEEgXsR.gif)
 
 # About Bugs

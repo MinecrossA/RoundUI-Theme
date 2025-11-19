@@ -14,7 +14,7 @@ You can access the Settings section by opening the _“RoundUI.css”_ file.
 
 - Chat that changes depending on the situation
 
-![Image Alt](https://i.imgur.com/LQCqL7L.gif)
+![Image Alt](https://i.imgur.com/ytJ4XSx.gif)
 
 # About Bugs
 There are still too many bugs in the theme, and I can't find them all on my own. If you're really bothered by the bugs, you can report them on the **Discord server** I'll be opening in the **FUTURE**.

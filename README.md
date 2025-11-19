@@ -19,6 +19,7 @@ You can access the Settings section by opening the _“RoundUI.css”_ file.
 - Pop-ups and user panel where you can adjust the background and blur.
 
 ![Image Alt](https://i.imgur.com/qEEgXsR.gif)
+![Image Alt](https://i.imgur.com/Mt8QD8x.png)
 
 # About Bugs
 There are still too many bugs in the theme, and I can't find them all on my own. If you're really bothered by the bugs, you can report them on the **Discord server** I'll be opening in the **FUTURE**.
